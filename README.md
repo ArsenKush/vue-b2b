@@ -1,10 +1,12 @@
 # vue-b2b
 
 ## Sample from my internship
-```
-```
-This component was allowed for demonstration
 
+This components was allowed for demonstration
+```
+ItemTile.vue
+LoginPage.vue
+```
 
 
 ### Project
